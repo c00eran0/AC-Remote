@@ -1,0 +1,24 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot_isim_beh.exe -prj /home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot_beh.prj work.bot 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/ezio.vhd" into library work
+Parsing VHDL file "/home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 96512 KB
+Fuse CPU Usage: 1780 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture logic of entity AC_REMOTE_CONTROLLER [ac_remote_controller_default]
+Compiling architecture behavior of entity bot
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable /home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot_isim_beh.exe
+Fuse Memory Usage: 668744 KB
+Fuse CPU Usage: 1890 ms
+GCC CPU Usage: 260 ms

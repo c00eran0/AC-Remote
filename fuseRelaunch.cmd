@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot_isim_beh.exe" -prj "/home/abhishek/Desktop/VHDL/VHDL_CLASS_PROJECT/bot_beh.prj" "work.bot" 
